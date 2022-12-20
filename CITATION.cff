@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Grain free asparagine content from four field
+  trials in Norfolk and Woburn
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Joseph
+    family-names: Oddy
+  - given-names: Mark
+    family-names: Wilkinson
+  - given-names: J. Stephen
+    family-names: Elmore
+  - given-names: Nicholas
+    family-names: Cryer
+  - given-names: Isabel
+    family-names: Moreira de Almeida
+  - given-names: Nigel G.
+    family-names: Halford
